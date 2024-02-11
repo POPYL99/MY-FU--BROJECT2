@@ -61,7 +61,7 @@ const styles = StyleSheet.create({
         fontSize: 18,
     },
     delbtn: {
-        padding: 6,
+        padding: 5,
         backgroundColor: '#E71D36',
         borderRadius: 6,
         marginRight: 6
