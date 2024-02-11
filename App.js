@@ -98,7 +98,7 @@ const App = () => {
       <View style={styles.form_container}>
       <TextInput
         style={styles.input}
-        placeholder="Your name"
+        placeholder="Your Name"
         value={fullName}
         onChangeText={(e) => {setFullName(e)}}
       />
