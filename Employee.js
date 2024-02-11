@@ -53,7 +53,7 @@ const styles = StyleSheet.create({
     btn: { width: '100%', marginTop: 12, backgroundColor: '#000000', alignItems: 'center', paddingVertical: 12, borderRadius: 12 },
     txt_btn: { color: '#ffcc00', fontSize: 20 },
     input: {
-        backgroundColor: "#ffffff",
+        backgroundColor: "green",
         width: "100%",
         padding: 12,
         borderRadius: 12,
